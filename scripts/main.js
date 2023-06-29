@@ -194,5 +194,5 @@ function updateCount() {
   }
 }
 
-intervalId = setInterval(updateCount, 10);
+intervalId = setInterval(updateCount, 40);
 
